@@ -7,5 +7,7 @@ public class GitDemo {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("master_test");
+        System.out.println("hot-fix");
+        System.out.println("hot-fix test");
     }
 }
