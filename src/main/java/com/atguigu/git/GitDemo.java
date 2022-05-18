@@ -9,5 +9,6 @@ public class GitDemo {
         System.out.println("master_test");
         System.out.println("hot-fix");
         System.out.println("hot-fix test");
+        System.out.println("github push");
     }
 }
