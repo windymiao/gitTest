@@ -10,6 +10,7 @@ public class GitDemo {
         System.out.println("hot-fix");
         System.out.println("hot-fix test");
         System.out.println("github push");
+        System.out.println("github ssh push");
         System.out.println("github pull");
     }
 }
